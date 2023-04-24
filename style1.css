@@ -1,0 +1,38 @@
+.card-title {
+    color: #db0075;
+}
+.card-text {
+    color: #17E6E6;
+}
+.list-inline-item {
+    color: #ffd700
+}
+.price {
+    color: #9B1B30;
+}
+.btn-pink {
+    background-color: #fcb2b2 !important;
+}
+
+.dropdown {
+    position:relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 120px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 16px;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+body table th a{
+    color: white;
+    font-family: sans-serif;
+}
